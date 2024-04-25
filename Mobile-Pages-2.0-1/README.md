@@ -1,3 +1,5 @@
+#SOR ESTOU COM PROBLEMAS EM REALIZAR COMIT
+
 # Expo Go - Tela de Login
 
 Este é um aplicativo simples de tela de login desenvolvido com React Native e Expo. Ele contém um formulário de login com campos de email e senha, juntamente com botões de login e opções de login social.
@@ -15,7 +17,7 @@ Este é um aplicativo simples de tela de login desenvolvido com React Native e E
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/Guilherme-Augusto06/Mobile-Pages-2.0.git
+https://github.com/RafaelaFatima16/Telas_Senai/edit/main/Mobile-Pages-2.0-1/README.md
 ```
 
 2. Navegue até o diretório do projeto:
